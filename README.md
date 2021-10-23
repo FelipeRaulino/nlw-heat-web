@@ -15,13 +15,13 @@ Esse é um projeto de aplicação web da [Rocketseat](https://www.rocketseat.com
 ### Execução do Back-End
 
 - Após clonar o repositório entre na pasta node-heat.
-- Crie um arquivo .env e configure os valores de suas variáveis ambiente, de acordo com suas credenciais cadastradas no Github.
-    - O arquivo .env-example foi deixado como template.
-- Instale as dependências do projeto usando o yarn.
-- Execute as migrations geradas com o prisma com o seguinte comando: yarn prisma migrate dev.
-- Inicie o servidor com yarn dev.
+- Crie um arquivo `.env` e configure os valores de suas variáveis ambiente, de acordo com suas credenciais cadastradas no Github.
+    - O arquivo `.env-example` foi deixado como template.
+- Instale as dependências do projeto usando o `yarn`.
+- Execute as migrations geradas com o prisma com o seguinte comando: `yarn prisma migrate dev`.
+- Inicie o servidor com `yarn dev`.
 
 ### Execução do Front-End
 
-- Instale as dependências do projeto usando o yarn
-- Inicie o servidor usando o yarn dev
+- Instale as dependências do projeto usando o `yarn`
+- Inicie o servidor usando o `yarn dev`
